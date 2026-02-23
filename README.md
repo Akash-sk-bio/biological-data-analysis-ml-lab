@@ -82,12 +82,3 @@ Final optimized model improved prediction accuracy by **25%**.
 | Accuracy Improvement | **+25%** |
 
 ---
-
-## 📂 Repository Structure
-biological-data-analysis-ml-lab/
-│
-├── notebook.ipynb
-├── biological_dataset_10000_records.csv
-├── requirements.txt
-├── README.md
-└── LICENSE
